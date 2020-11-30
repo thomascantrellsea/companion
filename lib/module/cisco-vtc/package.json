@@ -1,0 +1,19 @@
+{
+	"name": "cisco-vtc",
+	"version": "1.0.0",
+	"description": "",
+	"manufacturer": "Cisco",
+	"product": [
+		"DX70"
+	],
+	"shortname": "Cisco VTC",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"video conferencing"
+	],
+	"author": "Thomas Cantrell <thomas@thomascantrell.com",
+	"license": "MIT"
+}
