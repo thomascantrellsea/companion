@@ -1,0 +1,19 @@
+{
+	"name": "philips-hue-bridge",
+	"version": "1.0.0",
+	"description": "",
+	"manufacturer": "Philips",
+	"product": [
+		"Hue Bridge"
+	],
+	"shortname": "philips hue",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"lighting"
+	],
+	"author": "Thomas Cantrell <thomas@thomascantrell.com",
+	"license": "MIT"
+}
