@@ -10,3 +10,5 @@ Add a button and choose the action you want to use.
 *
 
 ### Tested Devices
+* Cisco SX20 (TC7.3.3.c84180a)
+* Cisco DX70 (ce9.14.2.118dbf07142)

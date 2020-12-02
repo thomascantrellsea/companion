@@ -4,6 +4,7 @@
 	"description": "",
 	"manufacturer": "Cisco",
 	"product": [
+		"SX20",
 		"DX70"
 	],
 	"shortname": "Cisco VTC",
