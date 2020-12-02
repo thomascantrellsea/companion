@@ -14,6 +14,9 @@
 	"keywords": [
 		"video conferencing"
 	],
+	"dependencies": {
+		"xmlbuilder": "^11.0.1"
+	},
 	"author": "Thomas Cantrell <thomas@thomascantrell.com",
 	"license": "MIT"
 }
