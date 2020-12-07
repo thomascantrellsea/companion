@@ -2,10 +2,12 @@
 	"name": "cisco-vtc",
 	"version": "1.0.0",
 	"description": "",
-	"manufacturer": "Cisco",
+	"manufacturer": "Cisco / Tandberg",
 	"product": [
-		"SX20",
-		"DX70"
+		"C60",
+		"DX70",
+		"E20",
+		"SX20"
 	],
 	"shortname": "Cisco VTC",
 	"main": "index.js",
